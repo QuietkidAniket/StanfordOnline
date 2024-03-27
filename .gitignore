@@ -1,7 +1,0 @@
-/lib/
-/bin/
-/include/
-/share/
-/pyvenv.cfg
-/demo.ipynb
-.gitignore
